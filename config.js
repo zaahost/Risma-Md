@@ -37,16 +37,16 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 
 //========Url Template Buttons=========//
 global.dtu = '𝑌𝑜𝑢𝑡𝑢𝑏𝑒'
-global.urlnya = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.urlnya = ""
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '62 857-1313-7903'
+global.phn = '62 838-5768-7084'
 
 //============= Games ================//
-global.benar = '_*Benar*_'
-global.salah = '_*Salah*_'
-global.dikit = "dikit lagi"
+global.benar = '_*Benar kak*_'
+global.salah = '_*Salah bego*_'
+global.dikit = "dikit lagi kak"
 
 global.multiplier = 100 // The higher, The harder levelup
 
